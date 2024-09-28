@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python projects?
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i'm the fun fact
+- ⚡ Fun fact: i'm no fun
 
 <!---
 chvish-git/chvish-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
