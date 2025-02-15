@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @chvish-git
-- 👀 I’m interested in cloud computing and full stack
-- 🌱 I’m currently learning data structures and sqlite
+- 👀 I’m interested in cloud computing and full stack (with maybe a touch of cyber security) [started learning now!]
+- 🌱 I’m currently learning advanced data structures, java and sqlite3
 - 💞️ I’m looking to collaborate on python projects?
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i'm no fun
+- ⚡ Fun fact: i'm kinda fun to work with 
 
 <!---
 chvish-git/chvish-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
