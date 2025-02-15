@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced data structures, java and sqlite3
 - 💞️ I’m looking to collaborate on python projects?
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm kinda fun to work with 
 
 <!---
