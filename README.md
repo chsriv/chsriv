@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chvish-git
 - 👀 I’m interested in cloud computing and full stack (with maybe a touch of cyber security) [started learning now!]
 - 🌱 I’m currently learning advanced data structures, java and sql
-- 💞️ I’m looking to collaborate on python projects?
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any kind of projects, would love to learn new skills!
+- 📫 How to reach me https://www.linkedin.com/in/srivishnavi-chebrolu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm kinda fun to work with 
 
