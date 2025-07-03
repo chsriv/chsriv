@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chvish-git
 - 👀 I’m interested in cloud computing and full stack (with maybe a touch of cyber security) [started learning now!]
-- 🌱 I’m currently learning advanced data structures, java and sqlite3
+- 🌱 I’m currently learning advanced data structures, java and sql
 - 💞️ I’m looking to collaborate on python projects?
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
