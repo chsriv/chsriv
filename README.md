@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chvish-git
-- 👀 I’m interested in cloud computing and full stack (with maybe a touch of cyber security) [started learning now!]
+- 👀 I’m interested in full stack dev (with maybe a touch of cybersecurity and AI) [started learning now!]
 - 🌱 I’m currently learning advanced data structures, java and sql
 - 💞️ I’m looking to collaborate on any kind of projects, would love to learn new skills!
 - 📫 How to reach me https://www.linkedin.com/in/srivishnavi-chebrolu
