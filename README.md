@@ -2,7 +2,7 @@
 <h3 align="center">I’m a CS undergrad who enjoys building projects and picking up new tech along the way.</h3>
 
 - 👋 Hi, I’m Srivishnavi Ch @chsriv
-- 👀 I’m interested in full stack dev (with maybe a touch of cybersecurity and AI) [learning!]
+- 👀 I’m interested in full stack dev (maybe with a dash of cybersecurity and AI) [learning!]
 - 🌱 I’m currently learning advanced data structures, java and sql
 - 💞️ I’m looking to collaborate on any kind of projects, would love to learn new skills!
 - 🔭 I’m currently working on *AI in personalised learning*
