@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chsriv
+- 👋 Hi, I’m Srivishnavi Ch @chsriv
 - 👀 I’m interested in full stack dev (with maybe a touch of cybersecurity and AI) [started learning now!]
 - 🌱 I’m currently learning advanced data structures, java and sql
 - 💞️ I’m looking to collaborate on any kind of projects, would love to learn new skills!
