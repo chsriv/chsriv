@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on any kind of projects, would love to learn new skills!
 - 🔭 I’m currently working on *AI in personalised learning*
 - 📫 How to reach me: **chsrivishnavi@gmail.com** | https://www.linkedin.com/in/srivishnavi-chebrolu
+- 👩‍💻 Personal Portfolio: [Right here!](https://v0-portfolio-website-design-two-fawn.vercel.app/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm kinda fun to work with 
 
